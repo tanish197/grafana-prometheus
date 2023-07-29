@@ -1,4 +1,4 @@
-# Install Grafana on Debian or Ubuntu
+![Screenshot (50)](https://github.com/tanish197/grafana-prometheus/assets/69623652/9e9ecb52-a144-4fc1-b390-2b62f3676788)# Install Grafana on Debian or Ubuntu
 
     $sudo apt-get install -y apt-transport-https
 
@@ -116,3 +116,10 @@ Now add configuration in prometheus.yml file
 ----------------------------------------------------To add------------------------------------------------------
 
     - targets: ["I.P:9100"]              //Replace I.P with ur hostname ip 
+
+![Screenshot (50)](https://github.com/tanish197/grafana-prometheus/assets/69623652/143562ee-2d5a-4f36-8329-97281e3dad52)
+
+![Screenshot (52)](https://github.com/tanish197/grafana-prometheus/assets/69623652/57a28a01-63f7-45a3-a86a-965464b30606)
+
+
+    
