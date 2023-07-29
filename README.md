@@ -1,4 +1,4 @@
-![Screenshot (50)](https://github.com/tanish197/grafana-prometheus/assets/69623652/9e9ecb52-a144-4fc1-b390-2b62f3676788)# Install Grafana on Debian or Ubuntu
+# Install Grafana on Debian or Ubuntu
 
     $sudo apt-get install -y apt-transport-https
 
